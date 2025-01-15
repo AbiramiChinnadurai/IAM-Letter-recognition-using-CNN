@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IAM Letter Recognition Project
 
 This project aims to recognize letters from the IAM dataset using a neural network model. The IAM dataset contains handwritten text samples, which are used to train and evaluate the model's performance in recognizing individual letters.
@@ -61,3 +62,6 @@ iam-letter-recognition
 ## Overview of the IAM Dataset
 
 The IAM dataset is a collection of handwritten text samples, which includes various styles and forms of handwriting. It is widely used for training and evaluating handwriting recognition systems. This project focuses on recognizing individual letters from the dataset, contributing to advancements in optical character recognition (OCR) technologies.
+=======
+# IAM-Letter-recognition-using-CNN
+>>>>>>> 6d1f1dffed7ae0d8e3fdac54e818767ba9705207
